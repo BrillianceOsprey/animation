@@ -82,7 +82,7 @@ class CardHiddenAnimationPageState extends State<CardHiddenAnimationPage>
               cardOffsetAnimationController.reverse();
               holeAnimationController.reverse();
             },
-            child: const Icon(Icons.add),
+            child: const Icon(Icons.plus_one),
           ),
         ],
       ),
